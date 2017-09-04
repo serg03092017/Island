@@ -1,14 +1,3 @@
-1. Задача "Остров"
-tsk1.jar
-tsk1.bat
-src\hhtsks\MainTsk1.java
-src\hhtsks\IOHelper.java
-2. Задача "Множество"
-tsk2.jar
-tsk2.bat
-src\hhtsks\MainTsk2.java
-src\hhtsks\P256.java
-
 Описание задач:
 
 1. Тропический остров
